@@ -11,7 +11,7 @@ fantasmas, seus inimigos.
 
 <h2>Como jogar? </h2>
 - É necessário que você instale a IDE do processing no computador. 
-Você irá encontrá-la no seguinte link: <i>https://processing.org/download/<i>
+Você irá encontrá-la no seguinte link: <i>https://processing.org/download/</i>
 Depois de intalar, você baixa o arquivo "pacman_game.pde" desse repositório e o abre
 com o Processing. Depois de aberto, na parte superior esquerda tela da IDE você encontrará
 o ícone do "play". Basta clicar nele que a janela de execução do jogo aparecerá e você poderá
