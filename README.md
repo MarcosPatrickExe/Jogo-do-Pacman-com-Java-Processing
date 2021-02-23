@@ -1,4 +1,4 @@
-# Jogo-do-Pacman-com-Java-Processing
+#Jogo do Pacman desenvolvido com Java/Processing
 
 <h2>Sobre o jogo:</h2>
 - O jogo é um protótipo do pacman do atari 2600, porém, com uma interface mais avançada. 
@@ -16,3 +16,5 @@ Depois de intalar, você baixa o arquivo "pacman_game.pde" desse repositório e 
 com o Processing. Depois de aberto, na parte superior esquerda tela da IDE você encontrará
 o ícone do "play". Basta clicar nele que a janela de execução do jogo aparecerá e você poderá
 controlar o pacman com os direcionais A (esquerda), W (cima), D (direita) e S (baixo).
+
+##Confira abaixo o visual do jogo:
