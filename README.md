@@ -17,5 +17,5 @@ com o Processing. Depois de aberto, na parte superior esquerda tela da IDE você
 o ícone do "play". Basta clicar nele que a janela de execução do jogo aparecerá e você poderá
 controlar o pacman com os direcionais A (esquerda), W (cima), D (direita) e S (baixo).
 
-##Visual do jogo:
+<h2>Visual do jogo:</h2>
 -Para ver o visual do jogo basta abrir a imagem "game print.png" aqui nesse repositório.
