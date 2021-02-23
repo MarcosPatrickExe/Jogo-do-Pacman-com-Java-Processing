@@ -18,4 +18,4 @@ o ícone do "play". Basta clicar nele que a janela de execução do jogo aparece
 controlar o pacman com os direcionais A (esquerda), W (cima), D (direita) e S (baixo).
 
 ##Confira abaixo o visual do jogo:
-![alt text](https://github.com/MarcosPatrickExe/Jogo-do-Pacman-com-Java-Processing/blob/master/game print.jpg?raw=true)
+![alt text](https://github.com/MarcosPatrickExe/Jogo-do-Pacman-com-Java-Processing/blob/main/game print.jpg?raw=true)
