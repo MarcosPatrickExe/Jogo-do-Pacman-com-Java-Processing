@@ -1,4 +1,4 @@
-#Jogo do Pacman desenvolvido com Java/Processing
+<h1>Jogo do Pacman desenvolvido com Java/Processing</h1>
 
 <h2>Sobre o jogo:</h2>
 - O jogo é um protótipo do pacman do atari 2600, porém, com uma interface mais avançada. 
