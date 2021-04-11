@@ -1,4 +1,4 @@
-<h1>Jogo do Pacman</h1>
+<h1>Jogo do Pacman :video_game:</h1>
 
 <h2>Sobre o jogo:</h2>
 - O jogo é um protótipo do pacman do atari 2600, porém, com uma interface mais avançada. 
