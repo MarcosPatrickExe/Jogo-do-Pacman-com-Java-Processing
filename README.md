@@ -19,4 +19,5 @@ o ícone do "play". Basta clicar nele que a janela de execução do jogo aparece
 controlar o pacman com os direcionais A (esquerda), W (cima), D (direita) e S (baixo). Boa jogatina!
 
 <h2>Visual do jogo:</h2>
--Para ver o visual do jogo basta abrir a imagem "game print.png" aqui nesse repositório.
+
+<img src="https://i.imgur.com/2V0obQY.png" alt="preview do jogo"/>
